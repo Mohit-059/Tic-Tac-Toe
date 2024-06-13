@@ -56,6 +56,11 @@ body {
     border-left:0;
 }
 
+.fixed-nav{
+    background-color: white;;
+}
+
+
 .rightt{
     border-right:0;
 }

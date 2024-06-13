@@ -1,0 +1,91 @@
+.darkpurple{
+    color:#9f2ce7;
+}
+
+.boxtexts:hover{
+    background-color:rgba(122, 106, 122, 0.514)
+
+}
+
+.right ul li a{
+    color:#9f2ce7;
+}
+
+.midblu{
+    background-color:#1b2937;
+}
+
+body{
+    background-color:#1b2937;
+}
+
+.boxtexts{
+    border:4px solid white;
+}
+
+.leftt{
+    border-left:0;
+}
+
+.rightt{
+    border-right:0;
+}
+
+.top{
+    border-top: 0;
+}
+
+.bottom{
+    border-bottom:0;
+}
+
+.white{
+    color:white;;
+}
+
+.gray{
+    color:gray;
+}
+
+main{
+    margin-top:-10px;
+    background-color:#0e1827;
+}
+
+.game_cont{
+    padding-top:10px;
+}
+
+.details{
+    color:white;
+    display:flex;
+    justify-content: space-between;
+    padding:10px 10px;
+}
+
+.nav img{
+    filter:invert(1);
+}
+
+
+
+/*about */
+.grayy{
+    color:rgb(201, 199, 199);
+}
+
+.cc{
+    border-top:gray
+}
+
+footer{
+    border-top:2px solid gray;
+}
+
+.maincont{
+    background-color:#0e1827;
+    margin-top:-10px;
+    padding-top:10px;
+    margin-bottom:-30px;
+    padding-bottom:30px;
+}
